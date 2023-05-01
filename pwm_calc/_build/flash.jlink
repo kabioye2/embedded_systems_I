@@ -1,0 +1,5 @@
+r
+loadfile _build/pwm_calc_sdk15_blank.hex 
+r
+g
+exit

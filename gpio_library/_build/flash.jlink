@@ -1,0 +1,5 @@
+r
+loadfile _build/gpio_library_sdk15_blank.hex 
+r
+g
+exit
